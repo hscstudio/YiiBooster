@@ -7,7 +7,7 @@ I would like to personally thank everyone of you that spend your valuable time h
 Thank you all
 
 Antonio Ramirez.
-
+HAFID
 ## YiiBooster latest development alpha  
 
 ## YiiBooster version 4.0.0-alpha
